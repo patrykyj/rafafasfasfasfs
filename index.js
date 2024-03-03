@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["Bot Serwera RozgrywkiMC.pl","Discord: https://discord.gg/zwa4Bv8fte"];
 
 
 let currentIndex = 0;
